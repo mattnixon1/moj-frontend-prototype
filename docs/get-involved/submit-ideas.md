@@ -1,13 +1,12 @@
 ---
 layout: layouts/community.njk
 subsection: Get involved
-title: Contribution criteria
-redirect_from: /community/criteria
+title: Submit ideas
 ---
 eleventyNavigation:
-  key: Contribution criteria
+  key: Submit ideas
   parent: Get involved
-  order: 40
+  order: 20
   excerpt: "For a contribution to be considered for the Design System, the style, component or pattern needs to be useful and unique."
 
 

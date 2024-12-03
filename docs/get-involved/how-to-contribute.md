@@ -1,12 +1,11 @@
 ---
-title: Suggest a change or give feedback
+title: How to contribute
 subsection: Get involved
 layout: layouts/community.njk
-redirect_from: /community/suggest-a-change
 eleventyNavigation:
-  key: Suggest a change or give feedback
+  key: How to contribute
   parent: Get involved
-  order: 30
+  order: 18
   excerpt: "Help improve the MoJ Design System by suggesting changes to building blocks."
 ---
 

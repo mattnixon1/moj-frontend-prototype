@@ -1,17 +1,15 @@
 ---
 layout: layouts/community.njk
 subsection: Get involved
-title: Contribution criteria
-redirect_from: /community/criteria
----
+title: Add new component
 eleventyNavigation:
-  key: Contribution criteria
+  key: Add new component
   parent: Get involved
-  order: 40
+  order: 14
   excerpt: "For a contribution to be considered for the Design System, the style, component or pattern needs to be useful and unique."
+---
 
-
-The MoJ Design System supports the design, build, and delivery of accessible and consistent services. To guarantee the quality of the design system, all styles, components and patterns need to meet certain criteria.
+The MojDesign System supports the design, build, and deliver of accessible and consistent services. To guarantee the quality of the design system, all styles, components and patterns need to meet certain criteria.
 
 ## Criteria
 
@@ -24,4 +22,4 @@ For a contribution to be considered for the design system, the style, component 
 
 ## Developing a contribution
 
-The MoJ Design System Group reviews contributions to check they meet the criteria. If your contribution is accepted into the design system, the Group will work with you to support the development of your contribution into a common style, component or pattern that other teams can reuse.
+The MoJ Design System Group reviews contributions to check they meet the criteria. If your contribution is accepted into the design system, the Group will work with your to support the development of your contributions into a common style, component or pattern that other teams can reuse.
