@@ -11,7 +11,9 @@ eleventyNavigation:
 ---
 
 {% banner "This is a community component" %}
-This component was added by a user in the community. It is not intended for use in live services. It is only meant for use in the Alpha and Beta phases of your project.
+This component was added by a user in the community. It is only meant for use in the alpha and beta phases of your project as it is not yet fully integrated into the design system. This is because some key bits of information for the component have not yet been added.
+
+Once all information is provided, the community tag will be removed and it will be ready to use in live environments.
 {% endbanner %}
 
 <div class="govuk-form-group">

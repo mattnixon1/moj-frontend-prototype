@@ -11,7 +11,9 @@ eleventyNavigation:
 ---
 
 {% banner "This is a community component" %}
-This component was added by a user in the community. It is not intended for use in live services. It is only meant for use in the Alpha and Beta phases of your project.
+This component was added by a user in the community. It is only meant for use in the alpha and beta phases of your project as it is not yet fully integrated into the design system. This is because some key bits of information for the component have not yet been added.
+
+Once all information is provided, the community tag will be removed and it will be ready to use in live environments.
 {% endbanner %}
 
 <!-- {% example "/examples/loading-spinner", 125 %} -->
@@ -20,20 +22,30 @@ This component was added by a user in the community. It is not intended for use 
     <img alt="A three step process: Ask the user for information, view a summary of that information and ask if they want to add more of the same type of information, if they do it will take them back to the first step to ask the user for information again." src="../../assets/images/loading-spinner-01.png" width="100%">
 </div>
 
+## Overview of the component
 
-### Why is the component needed
+[description of the component]
+
+<h3 class="govuk-heading-m">Why is the component needed <span class="govuk-link govuk-body"><a href="">Edit</a></h1>
 
 There was a need because sometimes user have to wait was sometimes up to 15 seconds due to the amount of data.
 
 We needed a way to show a user that a long running task (in this case a virus scan on uploads) was in progress along with providing progress updates.
 
-## How the component has been used
+<h2 class="govuk-heading-l">Current uses for the component <span class="govuk-link govuk-body"><a href="">Edit</a></h1>
 
-The solution uses a modal to prevent the user from trying to upload further files during the upload progress and updates 'x of x files uploaded' text as the files are scanned.
 
+There was a need because sometimes user have to wait was sometimes up to 15 seconds due to the amount of data.
+
+<h2 class="govuk-heading-l">When not to use the component <span class="govuk-link govuk-body"><a href="">Edit</a></h1>
+
+[todo]
+
+<!--
 ### References
 
 - [Indeterminate progress indicator]() - in the GOV.UK community backlog
 - [Loading spinner]() - in the GOV.UK community backlog
 - [Loading spinner]() - In the NHS community backlog
 - [Loading spinner]() - Malcolm from LAA shared in GitHub
+-->
