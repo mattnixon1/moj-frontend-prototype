@@ -6,7 +6,7 @@
     "/package"
   ],
   "scripts": {
-    "heroku-postbuild": "gulp build:docs && eleventy --input=./docs --output=public && buildpacks:add --app APP_NAME heroku-community/nginx",
+    "heroku-postbuild": "gulp build:docs && eleventy --input=./docs --output=public",
 
     "prepare": "node .husky/install.mjs",
     "build:docs": "gulp build:docs && eleventy --input=./docs --output=public",
