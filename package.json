@@ -6,6 +6,7 @@
     "/package"
   ],
   "scripts": {
+    "heroku-postbuild": "gulp build:docs && eleventy --input=./docs --output=public",
     "prepare": "node .husky/install.mjs",
     "build:docs": "gulp build:docs && eleventy --input=./docs --output=public",
     "build:dist": "gulp build:dist",
