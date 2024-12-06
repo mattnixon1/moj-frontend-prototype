@@ -1,2 +1,1 @@
-web: bin/start-nginx-static
-npm run watch:11ty
+npm run start: "./node_modules/.bin/http-server public -p $PORT",
