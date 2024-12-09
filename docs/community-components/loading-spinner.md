@@ -24,22 +24,21 @@ Once all information is provided, the community tag will be removed and it will 
 
 ## Overview of the component
 
-[description of the component]
+When the page requires information and the user needs to wait for a process to finish then a loading spinner is displayed. This is to show the user that the page is still working and not frozen.
 
 <h3 class="govuk-heading-m">Why is the component needed <span class="govuk-link govuk-body"><a href="">Edit</a></h1>
 
 There was a need because sometimes user have to wait was sometimes up to 15 seconds due to the amount of data.
 
-We needed a way to show a user that a long running task (in this case a virus scan on uploads) was in progress along with providing progress updates.
-
 <h2 class="govuk-heading-l">Current uses for the component <span class="govuk-link govuk-body"><a href="">Edit</a></h1>
 
+We needed a way to show a user that a long running task (in this case a virus scan on uploads) was in progress along with providing progress updates.
 
 There was a need because sometimes user have to wait was sometimes up to 15 seconds due to the amount of data.
 
 <h2 class="govuk-heading-l">When not to use the component <span class="govuk-link govuk-body"><a href="">Edit</a></h1>
 
-[todo]
+Don't use it when the user is still able to interact with the page.
 
 <!--
 ### References

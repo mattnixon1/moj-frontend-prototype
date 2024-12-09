@@ -17,4 +17,4 @@ The team wants to hear suggestions that may include:
 - reporting bugs where you've used a component or pattern in a live service and noticed an issue
 - any feedback you have about usage, for example accessibility or ideas for improvements
 
-Add these comments and take part in the [discussion on Github]().
+Add these comments and take part in the [discussion on Github](https://github.com/ministryofjustice/moj-frontend/discussions).

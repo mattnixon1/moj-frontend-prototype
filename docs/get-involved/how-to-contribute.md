@@ -2,12 +2,13 @@
 title: How to contribute
 subsection: Get involved
 layout: layouts/community.njk
+---
 eleventyNavigation:
   key: How to contribute
   parent: Get involved
   order: 18
   excerpt: "Help improve the MoJ Design System by suggesting changes to building blocks."
----
+
 
 To help improve the MoJ Design System, you can suggest changes to components and patterns.
 

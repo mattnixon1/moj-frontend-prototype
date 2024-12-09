@@ -14,6 +14,7 @@
     "ci:release": "HUSKY=0 CI=true semantic-release --debug",
     "ci:dryrun": "HUSKY=0 CI=true semantic-release --dry-run",
     "start": "./node_modules/.bin/http-server ./public -p $PORT",
+    "local": "npm-run-all --parallel watch:*",
     "test": "npm-run-all --parallel test:*",
     "test:docs": "npm run build:docs",
     "test:js": "jest src/",
