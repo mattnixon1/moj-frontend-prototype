@@ -54,7 +54,7 @@ The MoJ Design System team reviews all newly submitted components.
 
 Once we have all the information about the component and the review is finished, the team will look to remove the "<strong>community component</strong>" tag. This means it is ready for use across all phases of an Agile project.
 
-[Add your component to the MoJ Design System](https://github.com/ministryofjustice/moj-frontend/discussions/new/choose)
+[Add your component to the MoJ Design System](/get-involved/add-new-component)
 
 ### Suggest a change and provide feedback on community components
 
